@@ -1,6 +1,8 @@
 # fmlogit_r
 Fitting a estimate fractional multinomial logit models by quasi maximum likelihood (QMLE) Use fmlogit With (In) R Software
 
+https://www.youtube.com/watch?v=aDJMPx5nUEw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
